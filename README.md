@@ -1,3 +1,4 @@
+<img width="1919" height="1079" alt="Screenshot 2026-04-13 140121" src="https://github.com/user-attachments/assets/88b76e89-99ce-48ee-8e50-7eea8d30718b" />
 
 # Stellar Boot: Soroban SimpleStorage Contract
 
