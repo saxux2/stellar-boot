@@ -5,7 +5,7 @@
 This repository contains a simple Soroban smart contract for the Stellar blockchain, demonstrating basic storage and retrieval functionality. It is structured for easy extension and integration into larger Stellar-based projects.
 
 ## Project Structure
-
+https://stellar.expert/explorer/testnet/contract/CDXM3O5ZXZVDSYZCCBDNPLG55BLYY26UB75WTK4VNMH4WDR6DFBFA35C
 ```
 .
 ├── contracts
